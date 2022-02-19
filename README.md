@@ -1,4 +1,4 @@
-# master's-thesis
+# Master's-thesis
 This repository is divided into two folders: 
 
 👉 scrollytelling_with_mapbox: an interactive storytelling using Mapbox's scrollytelling template
